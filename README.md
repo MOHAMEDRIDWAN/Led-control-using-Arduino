@@ -1,7 +1,7 @@
 ### Name: Mohamed Ridwan A
 ### Register No: 212223110030
 
-# Exp no : Led control using Arduino
+# Exp no 1: Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
